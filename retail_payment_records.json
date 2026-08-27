@@ -1,0 +1,1502 @@
+[
+    {
+        "transaction_id": "TXN-1001",
+        "customer_id": "CUST-524",
+        "amount": 246.77,
+        "currency": "USD",
+        "payment_method": "UPI",
+        "timestamp": "2026-08-13T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "New York"
+    },
+    {
+        "transaction_id": "TXN-1002",
+        "customer_id": "CUST-858",
+        "amount": 945.15,
+        "currency": "EUR",
+        "payment_method": "UPI",
+        "timestamp": "2026-08-04T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "Mumbai"
+    },
+    {
+        "transaction_id": "TXN-1003",
+        "customer_id": "CUST-316",
+        "amount": 657.43,
+        "currency": "INR",
+        "payment_method": "Debit Card",
+        "timestamp": "2026-08-02T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "Mumbai"
+    },
+    {
+        "transaction_id": "TXN-1004",
+        "customer_id": "CUST-354",
+        "amount": 1051.77,
+        "currency": "USD",
+        "payment_method": "UPI",
+        "timestamp": "2026-08-03T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "London"
+    },
+    {
+        "transaction_id": "TXN-1005",
+        "customer_id": "CUST-240",
+        "amount": 954.45,
+        "currency": "INR",
+        "payment_method": "PayPal",
+        "timestamp": "2026-08-04T05:43:49.141240",
+        "is_successful": true,
+        "store_location": null
+    },
+    {
+        "transaction_id": "TXN-1006",
+        "customer_id": "CUST-968",
+        "amount": 929.12,
+        "currency": "EUR",
+        "payment_method": "Debit Card",
+        "timestamp": "2026-08-15T05:43:49.141240",
+        "is_successful": true,
+        "store_location": null
+    },
+    {
+        "transaction_id": "TXN-1007",
+        "customer_id": "CUST-453",
+        "amount": 1168.83,
+        "currency": "INR",
+        "payment_method": "UPI",
+        "timestamp": "2026-08-21T05:43:49.141240",
+        "is_successful": true,
+        "store_location": null
+    },
+    {
+        "transaction_id": "TXN-1008",
+        "customer_id": "CUST-750",
+        "amount": 179.92,
+        "currency": "EUR",
+        "payment_method": "PayPal",
+        "timestamp": "2026-08-14T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "Mumbai"
+    },
+    {
+        "transaction_id": "TXN-1009",
+        "customer_id": "CUST-921",
+        "amount": 1154.48,
+        "currency": "INR",
+        "payment_method": "Debit Card",
+        "timestamp": "2026-08-01T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "New York"
+    },
+    {
+        "transaction_id": "TXN-1010",
+        "customer_id": "CUST-631",
+        "amount": 1320.56,
+        "currency": "INR",
+        "payment_method": "UPI",
+        "timestamp": "2026-07-27T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "New York"
+    },
+    {
+        "transaction_id": "TXN-1011",
+        "customer_id": "CUST-679",
+        "amount": -25.5,
+        "currency": "EUR",
+        "payment_method": "Credit Card",
+        "timestamp": "2026-08-03T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "London"
+    },
+    {
+        "transaction_id": "TXN-1012",
+        "customer_id": "CUST-693",
+        "amount": 798.49,
+        "currency": "USD",
+        "payment_method": "PayPal",
+        "timestamp": "2026-08-03T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "Berlin"
+    },
+    {
+        "transaction_id": "TXN-1013",
+        "customer_id": "CUST-374",
+        "amount": 795.13,
+        "currency": "EUR",
+        "payment_method": "Debit Card",
+        "timestamp": "2026-08-15T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "New York"
+    },
+    {
+        "transaction_id": "TXN-1014",
+        "customer_id": "CUST-618",
+        "amount": 878.46,
+        "currency": "EUR",
+        "payment_method": "PayPal",
+        "timestamp": "2026-08-10T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "London"
+    },
+    {
+        "transaction_id": "TXN-1015",
+        "customer_id": "CUST-684",
+        "amount": 47.53,
+        "currency": "USD",
+        "payment_method": "PayPal",
+        "timestamp": "2026-08-21T05:43:49.141240",
+        "is_successful": true,
+        "store_location": null
+    },
+    {
+        "transaction_id": "TXN-1016",
+        "customer_id": "CUST-780",
+        "amount": 851.32,
+        "currency": "USD",
+        "payment_method": "Debit Card",
+        "timestamp": "2026-08-07T05:43:49.141240",
+        "is_successful": false,
+        "store_location": "New York"
+    },
+    {
+        "transaction_id": "TXN-1017",
+        "customer_id": "CUST-488",
+        "amount": 212.47,
+        "currency": "EUR",
+        "payment_method": "PayPal",
+        "timestamp": "2026-08-18T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "Berlin"
+    },
+    {
+        "transaction_id": "TXN-1018",
+        "customer_id": "CUST-217",
+        "amount": 105.93,
+        "currency": "INR",
+        "payment_method": "Cash",
+        "timestamp": "2026-08-03T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "Berlin"
+    },
+    {
+        "transaction_id": "TXN-1019",
+        "customer_id": "CUST-674",
+        "amount": 1465.93,
+        "currency": "EUR",
+        "payment_method": "Credit Card",
+        "timestamp": "2026-08-04T05:43:49.141240",
+        "is_successful": true,
+        "store_location": null
+    },
+    {
+        "transaction_id": "TXN-1020",
+        "customer_id": "CUST-180",
+        "amount": 1494.87,
+        "currency": "GBP",
+        "payment_method": "Cash",
+        "timestamp": "2026-08-24T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "Berlin"
+    },
+    {
+        "transaction_id": "TXN-1021",
+        "customer_id": "CUST-621",
+        "amount": 1204.22,
+        "currency": "INR",
+        "payment_method": "PayPal",
+        "timestamp": "2026-08-08T05:43:49.141240",
+        "is_successful": false,
+        "store_location": "Mumbai"
+    },
+    {
+        "transaction_id": "TXN-1022",
+        "customer_id": "CUST-818",
+        "amount": 1281.79,
+        "currency": "INR",
+        "payment_method": "Debit Card",
+        "timestamp": "2026-08-09T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "Mumbai"
+    },
+    {
+        "transaction_id": "TXN-1023",
+        "customer_id": "CUST-520",
+        "amount": 951.06,
+        "currency": "GBP",
+        "payment_method": "UPI",
+        "timestamp": "2026-08-23T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "Mumbai"
+    },
+    {
+        "transaction_id": "TXN-1024",
+        "customer_id": "CUST-828",
+        "amount": 699.41,
+        "currency": "EUR",
+        "payment_method": "Debit Card",
+        "timestamp": "2026-08-12T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "Mumbai"
+    },
+    {
+        "transaction_id": "TXN-1025",
+        "customer_id": "CUST-540",
+        "amount": 264.42,
+        "currency": "INR",
+        "payment_method": "PayPal",
+        "timestamp": "2026-08-24T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "Mumbai"
+    },
+    {
+        "transaction_id": "TXN-1026",
+        "customer_id": "CUST-371",
+        "amount": 92.54,
+        "currency": "INR",
+        "payment_method": "Check",
+        "timestamp": "2026-07-26T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "London"
+    },
+    {
+        "transaction_id": "TXN-1027",
+        "customer_id": "CUST-779",
+        "amount": 506.53,
+        "currency": "GBP",
+        "payment_method": "UPI",
+        "timestamp": "2026-08-05T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "New York"
+    },
+    {
+        "transaction_id": "TXN-1028",
+        "customer_id": "CUST-176",
+        "amount": 47.25,
+        "currency": "INR",
+        "payment_method": "UPI",
+        "timestamp": "2026-08-23T05:43:49.141240",
+        "is_successful": false,
+        "store_location": "Mumbai"
+    },
+    {
+        "transaction_id": "TXN-1029",
+        "customer_id": "CUST-688",
+        "amount": 1445.83,
+        "currency": "GBP",
+        "payment_method": "Debit Card",
+        "timestamp": "2026-08-18T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "Berlin"
+    },
+    {
+        "transaction_id": "TXN-1030",
+        "customer_id": "CUST-808",
+        "amount": 1467.16,
+        "currency": "USD",
+        "payment_method": "UPI",
+        "timestamp": "2026-08-21T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "London"
+    },
+    {
+        "transaction_id": "TXN-1031",
+        "customer_id": "CUST-220",
+        "amount": 1114.43,
+        "currency": "USD",
+        "payment_method": "UPI",
+        "timestamp": "2026-08-25T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "London"
+    },
+    {
+        "transaction_id": "TXN-1032",
+        "customer_id": "CUST-988",
+        "amount": 1068.18,
+        "currency": "EUR",
+        "payment_method": "Cash",
+        "timestamp": "2026-08-13T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "Berlin"
+    },
+    {
+        "transaction_id": "TXN-1033",
+        "customer_id": "CUST-699",
+        "amount": 1092.45,
+        "currency": "GBP",
+        "payment_method": "Cash",
+        "timestamp": "2026-08-11T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "London"
+    },
+    {
+        "transaction_id": "TXN-1034",
+        "customer_id": "CUST-746",
+        "amount": 1182.74,
+        "currency": "EUR",
+        "payment_method": "Credit Card",
+        "timestamp": "2026-08-25T05:43:49.141240",
+        "is_successful": true,
+        "store_location": null
+    },
+    {
+        "transaction_id": "TXN-1035",
+        "customer_id": "CUST-292",
+        "amount": 76.94,
+        "currency": "USD",
+        "payment_method": "Credit Card",
+        "timestamp": "2026-08-17T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "Mumbai"
+    },
+    {
+        "transaction_id": "TXN-1036",
+        "customer_id": "CUST-194",
+        "amount": 601.68,
+        "currency": "GBP",
+        "payment_method": "PayPal",
+        "timestamp": "2026-08-12T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "London"
+    },
+    {
+        "transaction_id": "TXN-1037",
+        "customer_id": "CUST-103",
+        "amount": 1279.58,
+        "currency": "USD",
+        "payment_method": "PayPal",
+        "timestamp": "2026-08-07T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "Mumbai"
+    },
+    {
+        "transaction_id": "TXN-1038",
+        "customer_id": "CUST-458",
+        "amount": 405.93,
+        "currency": "USD",
+        "payment_method": "Debit Card",
+        "timestamp": "2026-07-31T05:43:49.141240",
+        "is_successful": false,
+        "store_location": null
+    },
+    {
+        "transaction_id": "TXN-1039",
+        "customer_id": "CUST-511",
+        "amount": 388.28,
+        "currency": "GBP",
+        "payment_method": "Credit Card",
+        "timestamp": "2026-07-31T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "New York"
+    },
+    {
+        "transaction_id": "TXN-1040",
+        "customer_id": "CUST-110",
+        "amount": 455.58,
+        "currency": "USD",
+        "payment_method": "Credit Card",
+        "timestamp": "2026-07-30T05:43:49.141240",
+        "is_successful": true,
+        "store_location": null
+    },
+    {
+        "transaction_id": "TXN-1041",
+        "customer_id": "CUST-974",
+        "amount": 69.17,
+        "currency": "INR",
+        "payment_method": "Debit Card",
+        "timestamp": "2026-08-20T05:43:49.141240",
+        "is_successful": true,
+        "store_location": null
+    },
+    {
+        "transaction_id": "TXN-1042",
+        "customer_id": "CUST-724",
+        "amount": 414.77,
+        "currency": "EUR",
+        "payment_method": "Debit Card",
+        "timestamp": "2026-07-29T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "New York"
+    },
+    {
+        "transaction_id": "TXN-1043",
+        "customer_id": "CUST-595",
+        "amount": 1196.47,
+        "currency": "EUR",
+        "payment_method": "UPI",
+        "timestamp": "2026-08-17T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "Berlin"
+    },
+    {
+        "transaction_id": "TXN-1044",
+        "customer_id": "CUST-837",
+        "amount": 1139.11,
+        "currency": "USD",
+        "payment_method": "Credit Card",
+        "timestamp": "2026-08-24T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "London"
+    },
+    {
+        "transaction_id": "TXN-1045",
+        "customer_id": "CUST-648",
+        "amount": 1473.95,
+        "currency": "GBP",
+        "payment_method": "Cash",
+        "timestamp": "2026-08-02T05:43:49.141240",
+        "is_successful": true,
+        "store_location": null
+    },
+    {
+        "transaction_id": "TXN-1046",
+        "customer_id": "CUST-140",
+        "amount": 1161.44,
+        "currency": "GBP",
+        "payment_method": "Debit Card",
+        "timestamp": "2026-08-01T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "Berlin"
+    },
+    {
+        "transaction_id": "TXN-1047",
+        "customer_id": "CUST-101",
+        "amount": 488.73,
+        "currency": "INR",
+        "payment_method": "Debit Card",
+        "timestamp": "2026-08-20T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "Mumbai"
+    },
+    {
+        "transaction_id": "TXN-1048",
+        "customer_id": "CUST-158",
+        "amount": 1395.2,
+        "currency": "INR",
+        "payment_method": "UPI",
+        "timestamp": "2026-08-14T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "Mumbai"
+    },
+    {
+        "transaction_id": "TXN-1049",
+        "customer_id": "CUST-940",
+        "amount": 182.87,
+        "currency": "INR",
+        "payment_method": "Debit Card",
+        "timestamp": "2026-08-16T05:43:49.141240",
+        "is_successful": true,
+        "store_location": null
+    },
+    {
+        "transaction_id": "TXN-1050",
+        "customer_id": "CUST-915",
+        "amount": 1015.47,
+        "currency": "USD",
+        "payment_method": "Cash",
+        "timestamp": "2026-08-06T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "London"
+    },
+    {
+        "transaction_id": "TXN-1051",
+        "customer_id": "CUST-541",
+        "amount": 123.08,
+        "currency": "YEN",
+        "payment_method": "UPI",
+        "timestamp": "2026-08-21T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "London"
+    },
+    {
+        "transaction_id": "TXN-1052",
+        "customer_id": "CUST-795",
+        "amount": 1232.9,
+        "currency": "USD",
+        "payment_method": "Credit Card",
+        "timestamp": "2026-08-05T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "New York"
+    },
+    {
+        "transaction_id": "TXN-1053",
+        "customer_id": "CUST-365",
+        "amount": 1465.05,
+        "currency": "GBP",
+        "payment_method": "Credit Card",
+        "timestamp": "2026-08-15T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "Berlin"
+    },
+    {
+        "transaction_id": "TXN-1054",
+        "customer_id": "CUST-874",
+        "amount": 485.87,
+        "currency": "EUR",
+        "payment_method": "PayPal",
+        "timestamp": "2026-08-03T05:43:49.141240",
+        "is_successful": false,
+        "store_location": "Berlin"
+    },
+    {
+        "transaction_id": "TXN-1055",
+        "customer_id": "CUST-233",
+        "amount": 371.19,
+        "currency": "EUR",
+        "payment_method": "UPI",
+        "timestamp": "2026-08-13T05:43:49.141240",
+        "is_successful": true,
+        "store_location": null
+    },
+    {
+        "transaction_id": "TXN-1056",
+        "customer_id": "CUST-993",
+        "amount": 1055.59,
+        "currency": "USD",
+        "payment_method": "PayPal",
+        "timestamp": "2026-08-22T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "Berlin"
+    },
+    {
+        "transaction_id": "TXN-1057",
+        "customer_id": "CUST-189",
+        "amount": 79.02,
+        "currency": "EUR",
+        "payment_method": "UPI",
+        "timestamp": "2026-08-06T05:43:49.141240",
+        "is_successful": false,
+        "store_location": "New York"
+    },
+    {
+        "transaction_id": "TXN-1058",
+        "customer_id": "CUST-788",
+        "amount": 1235.32,
+        "currency": "EUR",
+        "payment_method": "Credit Card",
+        "timestamp": "2026-08-15T05:43:49.141240",
+        "is_successful": false,
+        "store_location": "Mumbai"
+    },
+    {
+        "transaction_id": "TXN-1059",
+        "customer_id": "CUST-489",
+        "amount": 415.47,
+        "currency": "GBP",
+        "payment_method": "UPI",
+        "timestamp": "2026-08-12T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "London"
+    },
+    {
+        "transaction_id": "TXN-1060",
+        "customer_id": "CUST-921",
+        "amount": 813.66,
+        "currency": "INR",
+        "payment_method": "Cash",
+        "timestamp": "2026-08-11T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "Mumbai"
+    },
+    {
+        "transaction_id": "TXN-1061",
+        "customer_id": "CUST-230",
+        "amount": 763.03,
+        "currency": "USD",
+        "payment_method": "Cash",
+        "timestamp": "2026-08-22T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "Berlin"
+    },
+    {
+        "transaction_id": "TXN-1062",
+        "customer_id": "CUST-535",
+        "amount": 211.97,
+        "currency": "INR",
+        "payment_method": "Cash",
+        "timestamp": "2026-08-23T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "Mumbai"
+    },
+    {
+        "transaction_id": "TXN-1063",
+        "customer_id": "CUST-768",
+        "amount": 1168.76,
+        "currency": "INR",
+        "payment_method": "PayPal",
+        "timestamp": "2026-08-24T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "Mumbai"
+    },
+    {
+        "transaction_id": "TXN-1064",
+        "customer_id": "CUST-703",
+        "amount": 1111.43,
+        "currency": "EUR",
+        "payment_method": "Credit Card",
+        "timestamp": "2026-08-02T05:43:49.141240",
+        "is_successful": true,
+        "store_location": null
+    },
+    {
+        "transaction_id": "TXN-1065",
+        "customer_id": "CUST-177",
+        "amount": 1100.93,
+        "currency": "GBP",
+        "payment_method": "PayPal",
+        "timestamp": "2026-08-07T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "Mumbai"
+    },
+    {
+        "transaction_id": "TXN-1066",
+        "customer_id": "CUST-890",
+        "amount": 418.5,
+        "currency": "INR",
+        "payment_method": "Cash",
+        "timestamp": "2026-08-23T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "London"
+    },
+    {
+        "transaction_id": "TXN-1067",
+        "customer_id": "CUST-427",
+        "amount": 870.27,
+        "currency": "INR",
+        "payment_method": "Credit Card",
+        "timestamp": "2026-08-04T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "New York"
+    },
+    {
+        "transaction_id": "TXN-1068",
+        "customer_id": "CUST-135",
+        "amount": 188.29,
+        "currency": "INR",
+        "payment_method": "Credit Card",
+        "timestamp": "2026-08-08T05:43:49.141240",
+        "is_successful": false,
+        "store_location": "Mumbai"
+    },
+    {
+        "transaction_id": "TXN-1069",
+        "customer_id": "CUST-391",
+        "amount": 530.2,
+        "currency": "INR",
+        "payment_method": "Credit Card",
+        "timestamp": "2026-07-26T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "Mumbai"
+    },
+    {
+        "transaction_id": "TXN-1070",
+        "customer_id": "CUST-806",
+        "amount": 346.97,
+        "currency": "EUR",
+        "payment_method": "Debit Card",
+        "timestamp": "2026-08-13T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "New York"
+    },
+    {
+        "transaction_id": "TXN-1071",
+        "customer_id": "CUST-772",
+        "amount": 738.75,
+        "currency": "USD",
+        "payment_method": "PayPal",
+        "timestamp": "2026-08-02T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "New York"
+    },
+    {
+        "transaction_id": "TXN-1072",
+        "customer_id": "CUST-915",
+        "amount": 557.63,
+        "currency": "EUR",
+        "payment_method": "Debit Card",
+        "timestamp": "2026-07-28T05:43:49.141240",
+        "is_successful": true,
+        "store_location": null
+    },
+    {
+        "transaction_id": "TXN-1073",
+        "customer_id": "CUST-719",
+        "amount": 817.16,
+        "currency": "GBP",
+        "payment_method": "Credit Card",
+        "timestamp": "2026-08-02T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "New York"
+    },
+    {
+        "transaction_id": "TXN-1074",
+        "customer_id": "CUST-810",
+        "amount": 1047.68,
+        "currency": "EUR",
+        "payment_method": "Credit Card",
+        "timestamp": "2026-08-13T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "Mumbai"
+    },
+    {
+        "transaction_id": "TXN-1075",
+        "customer_id": "CUST-267",
+        "amount": 1488.21,
+        "currency": "GBP",
+        "payment_method": "UPI",
+        "timestamp": "2026-08-23T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "London"
+    },
+    {
+        "transaction_id": "TXN-1076",
+        "customer_id": "CUST-335",
+        "amount": 543.36,
+        "currency": "INR",
+        "payment_method": "Cash",
+        "timestamp": "2026-08-25T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "Mumbai"
+    },
+    {
+        "transaction_id": "TXN-1077",
+        "customer_id": "CUST-658",
+        "amount": 308.75,
+        "currency": "USD",
+        "payment_method": "Credit Card",
+        "timestamp": "2026-08-11T05:43:49.141240",
+        "is_successful": false,
+        "store_location": "Berlin"
+    },
+    {
+        "transaction_id": "TXN-1078",
+        "customer_id": "CUST-447",
+        "amount": 449.63,
+        "currency": "USD",
+        "payment_method": "UPI",
+        "timestamp": "2026-07-28T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "London"
+    },
+    {
+        "transaction_id": "TXN-1079",
+        "customer_id": "CUST-693",
+        "amount": 1320.29,
+        "currency": "USD",
+        "payment_method": "Debit Card",
+        "timestamp": "2026-08-24T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "London"
+    },
+    {
+        "transaction_id": "TXN-1080",
+        "customer_id": "CUST-351",
+        "amount": 793.08,
+        "currency": "GBP",
+        "payment_method": "Cash",
+        "timestamp": "2026-08-25T05:43:49.141240",
+        "is_successful": true,
+        "store_location": null
+    },
+    {
+        "transaction_id": "TXN-1081",
+        "customer_id": "CUST-243",
+        "amount": 1339.17,
+        "currency": "INR",
+        "payment_method": "PayPal",
+        "timestamp": "2026-08-01T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "Mumbai"
+    },
+    {
+        "transaction_id": "TXN-1082",
+        "customer_id": "CUST-220",
+        "amount": 992.54,
+        "currency": "INR",
+        "payment_method": "Debit Card",
+        "timestamp": "2026-07-26T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "New York"
+    },
+    {
+        "transaction_id": "TXN-1083",
+        "customer_id": "CUST-497",
+        "amount": 119.57,
+        "currency": "INR",
+        "payment_method": "Debit Card",
+        "timestamp": "2026-08-21T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "Mumbai"
+    },
+    {
+        "transaction_id": "TXN-1084",
+        "customer_id": "CUST-713",
+        "amount": 802.12,
+        "currency": "INR",
+        "payment_method": "Debit Card",
+        "timestamp": "2026-08-21T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "Berlin"
+    },
+    {
+        "transaction_id": "TXN-1085",
+        "customer_id": "CUST-517",
+        "amount": 386.1,
+        "currency": "EUR",
+        "payment_method": "Cash",
+        "timestamp": "2026-08-12T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "New York"
+    },
+    {
+        "transaction_id": "TXN-1086",
+        "customer_id": "CUST-473",
+        "amount": 31.32,
+        "currency": "INR",
+        "payment_method": "UPI",
+        "timestamp": "2026-07-28T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "London"
+    },
+    {
+        "transaction_id": "TXN-1087",
+        "customer_id": "CUST-215",
+        "amount": 113.34,
+        "currency": "USD",
+        "payment_method": "UPI",
+        "timestamp": "2026-08-15T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "Berlin"
+    },
+    {
+        "transaction_id": "TXN-1088",
+        "customer_id": "CUST-374",
+        "amount": 678.16,
+        "currency": "USD",
+        "payment_method": "UPI",
+        "timestamp": "2026-08-24T05:43:49.141240",
+        "is_successful": false,
+        "store_location": "New York"
+    },
+    {
+        "transaction_id": "TXN-1089",
+        "customer_id": "CUST-930",
+        "amount": 1079.0,
+        "currency": "USD",
+        "payment_method": "UPI",
+        "timestamp": "2026-07-29T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "London"
+    },
+    {
+        "transaction_id": "TXN-1090",
+        "customer_id": "CUST-412",
+        "amount": 125.76,
+        "currency": "INR",
+        "payment_method": "Debit Card",
+        "timestamp": "2026-08-18T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "Berlin"
+    },
+    {
+        "transaction_id": "TXN-1091",
+        "customer_id": "CUST-310",
+        "amount": 212.7,
+        "currency": "USD",
+        "payment_method": "UPI",
+        "timestamp": "2026-08-12T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "London"
+    },
+    {
+        "transaction_id": "TXN-1092",
+        "customer_id": "CUST-227",
+        "amount": 1329.04,
+        "currency": "GBP",
+        "payment_method": "Cash",
+        "timestamp": "2026-08-12T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "London"
+    },
+    {
+        "transaction_id": "TXN-1093",
+        "customer_id": "CUST-304",
+        "amount": 1384.68,
+        "currency": "USD",
+        "payment_method": "Credit Card",
+        "timestamp": "2026-07-27T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "London"
+    },
+    {
+        "transaction_id": "TXN-1094",
+        "customer_id": "CUST-156",
+        "amount": 1466.94,
+        "currency": "USD",
+        "payment_method": "UPI",
+        "timestamp": "2026-08-19T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "Berlin"
+    },
+    {
+        "transaction_id": "TXN-1095",
+        "customer_id": "CUST-787",
+        "amount": 808.32,
+        "currency": "USD",
+        "payment_method": "Debit Card",
+        "timestamp": "2026-08-05T05:43:49.141240",
+        "is_successful": true,
+        "store_location": null
+    },
+    {
+        "transaction_id": "TXN-1096",
+        "customer_id": "CUST-302",
+        "amount": 67.01,
+        "currency": "EUR",
+        "payment_method": "Credit Card",
+        "timestamp": "2026-08-19T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "Mumbai"
+    },
+    {
+        "transaction_id": "TXN-1097",
+        "customer_id": "CUST-761",
+        "amount": 328.26,
+        "currency": "INR",
+        "payment_method": "Debit Card",
+        "timestamp": "2026-08-25T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "London"
+    },
+    {
+        "transaction_id": "TXN-1098",
+        "customer_id": "CUST-347",
+        "amount": 146.74,
+        "currency": "USD",
+        "payment_method": "UPI",
+        "timestamp": "2026-08-04T05:43:49.141240",
+        "is_successful": true,
+        "store_location": null
+    },
+    {
+        "transaction_id": "TXN-1099",
+        "customer_id": "CUST-600",
+        "amount": 97.82,
+        "currency": "INR",
+        "payment_method": "Debit Card",
+        "timestamp": "2026-08-25T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "Mumbai"
+    },
+    {
+        "transaction_id": "TXN-1100",
+        "customer_id": "CUST-185",
+        "amount": 826.94,
+        "currency": "EUR",
+        "payment_method": "PayPal",
+        "timestamp": "2026-07-26T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "Berlin"
+    },
+    {
+        "transaction_id": "TXN-1101",
+        "customer_id": "CUST-645",
+        "amount": 762.8,
+        "currency": "EUR",
+        "payment_method": "PayPal",
+        "timestamp": "Bad-Time",
+        "is_successful": false,
+        "store_location": "London"
+    },
+    {
+        "transaction_id": "TXN-1102",
+        "customer_id": "CUST-106",
+        "amount": 192.02,
+        "currency": "EUR",
+        "payment_method": "Credit Card",
+        "timestamp": "2026-08-22T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "Mumbai"
+    },
+    {
+        "transaction_id": "TXN-1103",
+        "customer_id": "CUST-955",
+        "amount": 737.48,
+        "currency": "EUR",
+        "payment_method": "Debit Card",
+        "timestamp": "2026-08-22T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "London"
+    },
+    {
+        "transaction_id": "TXN-1104",
+        "customer_id": "CUST-863",
+        "amount": 373.53,
+        "currency": "EUR",
+        "payment_method": "Cash",
+        "timestamp": "2026-08-14T05:43:49.141240",
+        "is_successful": true,
+        "store_location": null
+    },
+    {
+        "transaction_id": "TXN-1105",
+        "customer_id": "CUST-103",
+        "amount": 966.52,
+        "currency": "EUR",
+        "payment_method": "UPI",
+        "timestamp": "2026-08-16T05:43:49.141240",
+        "is_successful": false,
+        "store_location": "Berlin"
+    },
+    {
+        "transaction_id": "TXN-1106",
+        "customer_id": "CUST-694",
+        "amount": 372.02,
+        "currency": "INR",
+        "payment_method": "Credit Card",
+        "timestamp": "2026-08-08T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "Berlin"
+    },
+    {
+        "transaction_id": "TXN-1107",
+        "customer_id": "CUST-224",
+        "amount": 459.64,
+        "currency": "GBP",
+        "payment_method": "Cash",
+        "timestamp": "2026-07-26T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "London"
+    },
+    {
+        "transaction_id": "TXN-1108",
+        "customer_id": "CUST-894",
+        "amount": 961.67,
+        "currency": "INR",
+        "payment_method": "Cash",
+        "timestamp": "2026-08-20T05:43:49.141240",
+        "is_successful": false,
+        "store_location": "Berlin"
+    },
+    {
+        "transaction_id": "TXN-1109",
+        "customer_id": "CUST-153",
+        "amount": 535.33,
+        "currency": "GBP",
+        "payment_method": "Cash",
+        "timestamp": "2026-08-16T05:43:49.141240",
+        "is_successful": false,
+        "store_location": "Berlin"
+    },
+    {
+        "transaction_id": "TXN-1110",
+        "customer_id": "CUST-447",
+        "amount": 1456.99,
+        "currency": "GBP",
+        "payment_method": "PayPal",
+        "timestamp": "2026-08-22T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "London"
+    },
+    {
+        "transaction_id": "TXN-1111",
+        "customer_id": "CUST-453",
+        "amount": 260.03,
+        "currency": "INR",
+        "payment_method": "Debit Card",
+        "timestamp": "2026-08-04T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "Berlin"
+    },
+    {
+        "transaction_id": "TXN-1112",
+        "customer_id": "CUST-746",
+        "amount": 50.85,
+        "currency": "GBP",
+        "payment_method": "UPI",
+        "timestamp": "2026-07-28T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "Berlin"
+    },
+    {
+        "transaction_id": "TXN-1113",
+        "customer_id": "CUST-822",
+        "amount": 1202.14,
+        "currency": "EUR",
+        "payment_method": "Credit Card",
+        "timestamp": "2026-08-22T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "New York"
+    },
+    {
+        "transaction_id": "TXN-1114",
+        "customer_id": "CUST-250",
+        "amount": 1372.54,
+        "currency": "EUR",
+        "payment_method": "PayPal",
+        "timestamp": "2026-08-09T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "Mumbai"
+    },
+    {
+        "transaction_id": "TXN-1115",
+        "customer_id": "CUST-960",
+        "amount": 276.44,
+        "currency": "GBP",
+        "payment_method": "Credit Card",
+        "timestamp": "2026-08-20T05:43:49.141240",
+        "is_successful": false,
+        "store_location": "New York"
+    },
+    {
+        "transaction_id": "TXN-1116",
+        "customer_id": "CUST-375",
+        "amount": 373.45,
+        "currency": "USD",
+        "payment_method": "Debit Card",
+        "timestamp": "2026-08-23T05:43:49.141240",
+        "is_successful": false,
+        "store_location": "London"
+    },
+    {
+        "transaction_id": "TXN-1117",
+        "customer_id": "CUST-521",
+        "amount": 1000.7,
+        "currency": "USD",
+        "payment_method": "PayPal",
+        "timestamp": "2026-08-20T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "Berlin"
+    },
+    {
+        "transaction_id": "TXN-1118",
+        "customer_id": "CUST-861",
+        "amount": 74.15,
+        "currency": "INR",
+        "payment_method": "Debit Card",
+        "timestamp": "2026-08-25T05:43:49.141240",
+        "is_successful": false,
+        "store_location": "London"
+    },
+    {
+        "transaction_id": "TXN-1119",
+        "customer_id": "CUST-838",
+        "amount": 447.38,
+        "currency": "EUR",
+        "payment_method": "PayPal",
+        "timestamp": "2026-08-08T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "Berlin"
+    },
+    {
+        "transaction_id": "TXN-1120",
+        "customer_id": "CUST-372",
+        "amount": 247.67,
+        "currency": "GBP",
+        "payment_method": "UPI",
+        "timestamp": "2026-08-22T05:43:49.141240",
+        "is_successful": false,
+        "store_location": "Mumbai"
+    },
+    {
+        "transaction_id": "TXN-1121",
+        "customer_id": "CUST-526",
+        "amount": 1088.98,
+        "currency": "INR",
+        "payment_method": "Credit Card",
+        "timestamp": "2026-08-02T05:43:49.141240",
+        "is_successful": false,
+        "store_location": "Mumbai"
+    },
+    {
+        "transaction_id": "TXN-1122",
+        "customer_id": "CUST-435",
+        "amount": 139.28,
+        "currency": "GBP",
+        "payment_method": "Cash",
+        "timestamp": "2026-08-07T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "London"
+    },
+    {
+        "transaction_id": "TXN-1123",
+        "customer_id": "CUST-761",
+        "amount": 659.08,
+        "currency": "USD",
+        "payment_method": "PayPal",
+        "timestamp": "2026-08-12T05:43:49.141240",
+        "is_successful": true,
+        "store_location": null
+    },
+    {
+        "transaction_id": "TXN-1124",
+        "customer_id": "CUST-128",
+        "amount": 550.01,
+        "currency": "INR",
+        "payment_method": "Cash",
+        "timestamp": "2026-08-04T05:43:49.141240",
+        "is_successful": true,
+        "store_location": null
+    },
+    {
+        "transaction_id": "TXN-1125",
+        "customer_id": "CUST-443",
+        "amount": 858.5,
+        "currency": "USD",
+        "payment_method": "UPI",
+        "timestamp": "2026-07-26T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "London"
+    },
+    {
+        "transaction_id": "TXN-1126",
+        "customer_id": "CUST-388",
+        "amount": 135.49,
+        "currency": "EUR",
+        "payment_method": "UPI",
+        "timestamp": "2026-08-12T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "New York"
+    },
+    {
+        "transaction_id": "TXN-1127",
+        "customer_id": "CUST-884",
+        "amount": 1361.54,
+        "currency": "GBP",
+        "payment_method": "Credit Card",
+        "timestamp": "2026-08-02T05:43:49.141240",
+        "is_successful": true,
+        "store_location": null
+    },
+    {
+        "transaction_id": "TXN-1128",
+        "customer_id": "CUST-183",
+        "amount": 476.21,
+        "currency": "INR",
+        "payment_method": "Cash",
+        "timestamp": "2026-08-12T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "London"
+    },
+    {
+        "transaction_id": "TXN-1129",
+        "customer_id": "CUST-435",
+        "amount": 280.57,
+        "currency": "EUR",
+        "payment_method": "Debit Card",
+        "timestamp": "2026-07-31T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "New York"
+    },
+    {
+        "transaction_id": "TXN-1130",
+        "customer_id": "CUST-230",
+        "amount": 274.4,
+        "currency": "USD",
+        "payment_method": "Debit Card",
+        "timestamp": "2026-08-19T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "Mumbai"
+    },
+    {
+        "transaction_id": "TXN-1131",
+        "customer_id": "CUST-668",
+        "amount": 291.53,
+        "currency": "GBP",
+        "payment_method": "Credit Card",
+        "timestamp": "2026-08-19T05:43:49.141240",
+        "is_successful": true,
+        "store_location": null
+    },
+    {
+        "transaction_id": "TXN-1132",
+        "customer_id": "CUST-569",
+        "amount": 774.63,
+        "currency": "USD",
+        "payment_method": "Credit Card",
+        "timestamp": "2026-08-11T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "Berlin"
+    },
+    {
+        "transaction_id": "TXN-1133",
+        "customer_id": "CUST-323",
+        "amount": 518.03,
+        "currency": "INR",
+        "payment_method": "PayPal",
+        "timestamp": "2026-07-31T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "New York"
+    },
+    {
+        "transaction_id": "TXN-1134",
+        "customer_id": "CUST-427",
+        "amount": 870.94,
+        "currency": "GBP",
+        "payment_method": "Cash",
+        "timestamp": "2026-08-16T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "London"
+    },
+    {
+        "transaction_id": "TXN-1135",
+        "customer_id": "CUST-524",
+        "amount": 226.16,
+        "currency": "INR",
+        "payment_method": "Cash",
+        "timestamp": "2026-08-20T05:43:49.141240",
+        "is_successful": false,
+        "store_location": "London"
+    },
+    {
+        "transaction_id": "TXN-1136",
+        "customer_id": "CUST-756",
+        "amount": 327.44,
+        "currency": "GBP",
+        "payment_method": "UPI",
+        "timestamp": "2026-08-19T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "Mumbai"
+    },
+    {
+        "transaction_id": "TXN-1137",
+        "customer_id": "CUST-985",
+        "amount": 880.21,
+        "currency": "GBP",
+        "payment_method": "Cash",
+        "timestamp": "2026-07-31T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "London"
+    },
+    {
+        "transaction_id": "TXN-1138",
+        "customer_id": "CUST-941",
+        "amount": 1418.53,
+        "currency": "GBP",
+        "payment_method": "PayPal",
+        "timestamp": "2026-08-07T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "New York"
+    },
+    {
+        "transaction_id": "TXN-1139",
+        "customer_id": "CUST-801",
+        "amount": 666.08,
+        "currency": "GBP",
+        "payment_method": "PayPal",
+        "timestamp": "2026-08-10T05:43:49.141240",
+        "is_successful": false,
+        "store_location": "Mumbai"
+    },
+    {
+        "transaction_id": "TXN-1140",
+        "customer_id": "CUST-804",
+        "amount": 1152.08,
+        "currency": "GBP",
+        "payment_method": "PayPal",
+        "timestamp": "2026-08-17T05:43:49.141240",
+        "is_successful": false,
+        "store_location": "New York"
+    },
+    {
+        "transaction_id": "TXN-1141",
+        "customer_id": "CUST-107",
+        "amount": 1233.34,
+        "currency": "INR",
+        "payment_method": "Debit Card",
+        "timestamp": "2026-08-11T05:43:49.141240",
+        "is_successful": true,
+        "store_location": null
+    },
+    {
+        "transaction_id": "TXN-1142",
+        "customer_id": "CUST-601",
+        "amount": 542.58,
+        "currency": "USD",
+        "payment_method": "UPI",
+        "timestamp": "2026-08-23T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "London"
+    },
+    {
+        "transaction_id": "TXN-1143",
+        "customer_id": "CUST-783",
+        "amount": 1301.43,
+        "currency": "GBP",
+        "payment_method": "Credit Card",
+        "timestamp": "2026-08-02T05:43:49.141240",
+        "is_successful": false,
+        "store_location": "New York"
+    },
+    {
+        "transaction_id": "TXN-1144",
+        "customer_id": "CUST-960",
+        "amount": 192.87,
+        "currency": "INR",
+        "payment_method": "Debit Card",
+        "timestamp": "2026-08-12T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "Berlin"
+    },
+    {
+        "transaction_id": "TXN-1145",
+        "customer_id": "CUST-717",
+        "amount": 1355.33,
+        "currency": "EUR",
+        "payment_method": "Debit Card",
+        "timestamp": "2026-08-09T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "Berlin"
+    },
+    {
+        "transaction_id": "TXN-1146",
+        "customer_id": "CUST-600",
+        "amount": 398.14,
+        "currency": "INR",
+        "payment_method": "Credit Card",
+        "timestamp": "2026-07-26T05:43:49.141240",
+        "is_successful": false,
+        "store_location": "London"
+    },
+    {
+        "transaction_id": "TXN-1147",
+        "customer_id": "CUST-398",
+        "amount": 117.61,
+        "currency": "EUR",
+        "payment_method": "Credit Card",
+        "timestamp": "2026-08-10T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "Berlin"
+    },
+    {
+        "transaction_id": "TXN-1148",
+        "customer_id": "CUST-699",
+        "amount": 398.3,
+        "currency": "USD",
+        "payment_method": "Credit Card",
+        "timestamp": "2026-08-10T05:43:49.141240",
+        "is_successful": true,
+        "store_location": "New York"
+    },
+    {
+        "transaction_id": "TXN-1149",
+        "customer_id": "CUST-812",
+        "amount": 231.06,
+        "currency": "EUR",
+        "payment_method": "Credit Card",
+        "timestamp": "2026-08-11T05:43:49.141240",
+        "is_successful": true,
+        "store_location": null
+    },
+    {
+        "transaction_id": "TXN-1150",
+        "customer_id": "CUST-699",
+        "amount": 196.51,
+        "currency": "GBP",
+        "payment_method": "Credit Card",
+        "timestamp": "2026-08-07T05:43:49.141240",
+        "is_successful": true,
+        "store_location": null
+    }
+]
