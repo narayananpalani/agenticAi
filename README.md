@@ -1,6 +1,3 @@
-Here is the complete, copy-paste ready `README.md` file updated with the new **How to Contribute** section and **License** details at the bottom.
-
-```markdown
 # 🤖 Agentic AI & RAG Engineering 🚀✨
 
 **👨‍💻 Author:** Narayanan Palani  
@@ -380,6 +377,3 @@ This project is licensed under the **MIT License** — see the [LICENSE](https:/
 
 🔗 **Maintained by:** [Narayanan Palani](https://github.com/narayananpalani)
 
-```
-
-```
