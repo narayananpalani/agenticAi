@@ -1,0 +1,8 @@
+{"q": "app crashing during photo upload", "expected_id": "ins_001", "expected_winner": "DENSE", "why": "Semantic match for FNOL crash"}
+{"q": "ERR-AUTH-909", "expected_id": "ins_022", "expected_winner": "BM25", "why": "Exact error code for LexisNexis"}
+{"q": "double charged auto pay", "expected_id": "ins_006", "expected_winner": "DENSE", "why": "Semantic conversational phrasing"}
+{"q": "renewal notices not going out", "expected_id": "ins_019", "expected_winner": "DENSE", "why": "Synonym gap for missing triggers"}
+{"q": "JWT token expiration", "expected_id": "ins_032", "expected_winner": "BM25", "why": "Exact technical terminology"}
+{"q": "Guidewire sync 504", "expected_id": "ins_021", "expected_winner": "BM25", "why": "Exact match on proper noun and error code"}
+{"q": "can't scan blurry id cards", "expected_id": "ins_026", "expected_winner": "DENSE", "why": "Semantic conversational phasing"}
+{"q": "PII SSN in URL", "expected_id": "ins_031", "expected_winner": "BM25", "why": "Exact acronym matches"}
