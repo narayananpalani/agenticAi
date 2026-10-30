@@ -120,15 +120,15 @@ def ingest_chunks(chunks: list[dict[str, Any]]) -> None:
 
 
 # ─── Step 6: Retrieve ───────────────────────────────────────────────────
-
 def retrieve(query: str, k: int = 3) -> list[dict[str, Any]]:
+    """Retrieve top-k chunks for a query."""
     query_vector = embed_texts([query])[0]
-    results = qdrant.search(
-        collection_name=COLLECTION_NAME, 
-        query_vector=query_vector, 
+    results = qdrant.query_points(
+        collection_name=COLLECTION_NAME,
+        query=query_vector,
         limit=k
     )
-    return [hit.payload for hit in results if hit.payload is not None]
+    return [hit.payload for hit in results.points if hit.payload is not None]
 
 
 # ─── Step 7: Generate the answer ────────────────────────────────────────
